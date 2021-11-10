@@ -33,7 +33,7 @@ def check_all_sites():
 
 
 def get_all_sites():
-	file = open('sites.json')
+	file = open('websites.json')
 	return json.load(file)
 
 def check_site(site):
