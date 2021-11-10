@@ -1,0 +1,10 @@
+{
+	"from": "insert email address",
+	"to": "insert email address",
+	
+	"server": {
+		"type": "smtp",
+		"host": "insert host",
+		"port": 25
+	}
+}
